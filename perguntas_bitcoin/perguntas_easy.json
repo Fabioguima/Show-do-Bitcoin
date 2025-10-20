@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Ciência e natureza",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quais são as fases da Lua?",
+        "correct_answer": "Nova, crescente, cheia e minguante",
+        "incorrect_answers": [
+            "Nova, cheia e superlua",
+            "Penumbral, lunar parcial, lunar total e cheia",
+            "Nova, cheia, minguante e lua de sangue"
+        ]
+    },
+    {
+        "category": "Ciência e natureza",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quantos continentes existem?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "5",
+            "1",
+            "3"
+        ]
+    },
+    {
+        "category": "Ciência e natureza",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual o nome popular do cloreto de sódio?",
+        "correct_answer": "Sal de cozinha",
+        "incorrect_answers": [
+            "Vinagre",
+            "Fermento",
+            "Papel"
+        ]
+    },
+    {
+        "category": "Entretenimento: Livros",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem escreveu um famoso diário enquanto se escondia dos nazistas em Amsterdã?",
+        "correct_answer": "Anne Frank",
+        "incorrect_answers": [
+            "Bridget Jones",
+            "Marie Curie",
+            "Helen Keller"
+        ]
+    },
+    {
+        "category": "História",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem inventou a lâmpada?",
+        "correct_answer": "Thomas Edison",
+        "incorrect_answers": [
+            "Graham Bell",
+            "Steve Jobs",
+            "Henry Ford"
+        ]
+    }
+]

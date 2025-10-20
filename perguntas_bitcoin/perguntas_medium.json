@@ -1,0 +1,74 @@
+[
+    {
+        "category": "Mitologia",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Segundo a mitologia grega quantos deuses formam o Panteão?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "7",
+            "20",
+            "3"
+        ]
+    },
+    {
+        "category": "Entretenimento: Livros",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem escreveu o poema épico Paraíso Perdido?",
+        "correct_answer": "John Milton",
+        "incorrect_answers": [
+            "Henry James",
+            "John Keats",
+            "John Steinbeck"
+        ]
+    },
+    {
+        "category": "Geografia",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o país que produz mais café no mundo?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+            "Colômbia",
+            "Indonésia",
+            "Vietnã"
+        ]
+    },
+    {
+        "category": "Conhecimentos gerais",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual a especialidade do otorrinolaringologista?",
+        "correct_answer": "Tratamento das doenças relacionadas a nariz, ouvido e garganta",
+        "incorrect_answers": [
+            "Tratamento das doenças bucais",
+            "Tratamento das doenças infantis",
+            "Tratamento das doenças da pele"
+        ]
+    },
+    {
+        "category": "Entretenimento: Anime e Manga",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem matou o personagem Jiraya no anime Naruto?",
+        "correct_answer": "Pain",
+        "incorrect_answers": [
+            "Orochimaru",
+            "Itachi",
+            "Kaguya"
+        ]
+    },
+    {
+        "category": "Entretenimento: Videogame",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Super Mário World foi lançado em que ano?",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+            "1993",
+            "1985",
+            "1979"
+        ]
+    }
+]
